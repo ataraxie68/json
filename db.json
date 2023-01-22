@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Status": "bestellt",
+            "Titel": "Das Parfum",
+            "Stück": 20,
+            "Preis": 15.99,
+            "Bestelldat": "2022-01-01",
+            "Hinweis": "keine",
+            "Kostenstelle": "123",
+            "AuftragNr": "ABC123",
+            "ISBN": "978-3-423-34041-0",
+            "erscheint ca.": "2022-02-01",
+            "geliefert am": "2022-02-15",
+            "Reklamation": "nein"
+        },
+        {
+            "Status": "geliefert",
+            "Titel": "Harry Potter und der Stein der Weisen",
+            "Stück": 10,
+            "Preis": 12.99,
+            "Bestelldat": "2022-01-05",
+            "Hinweis": "keine",
+            "Kostenstelle": "456",
+            "AuftragNr": "DEF456",
+            "ISBN": "978-3-431-04007-0",
+            "erscheint ca.": "",
+            "geliefert am": "2022-01-20",
+            "Reklamation": "nein"
+        }
+    ]
+}
