@@ -1,6 +1,7 @@
 {
     "data": [
         {
+            "id":1,
             "Status": "bestellt",
             "Titel": "Das Parfum",
             "Stück": 20,
@@ -15,6 +16,7 @@
             "Reklamation": "nein"
         },
         {
+                "id":2,
             "Status": "geliefert",
             "Titel": "Harry Potter und der Stein der Weisen",
             "Stück": 10,
