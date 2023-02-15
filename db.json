@@ -32,7 +32,7 @@
         },
                {
             "id":3,
-            "Status": "berechnet",
+            "Status": "storniert",
             "Titel": "Das Parfum",
             "Stück": 20,
             "Preis": 15.99,
