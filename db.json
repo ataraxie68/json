@@ -32,7 +32,7 @@
         },
                {
             "id":3,
-            "Status": "bestellt",
+            "Status": "berechnet",
             "Titel": "Das Parfum",
             "Stück": 20,
             "Preis": 15.99,
@@ -47,7 +47,7 @@
         },
         {
                 "id":4,
-            "Status": "geliefert",
+            "Status": "berechnet",
             "Titel": "Harry Potter und der Stein der Weisen",
             "Stück": 10,
             "Preis": 12.99,
